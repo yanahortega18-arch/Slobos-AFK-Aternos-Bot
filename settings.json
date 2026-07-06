@@ -27,13 +27,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": true,
-      "repeat-delay": 120,
+      "enabled": true,
+      "repeat": false,
+      "repeat-delay": 0,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Im a bot dont kill me you shit",
+       
+       
       ]
     },
     "chat-log": true,
